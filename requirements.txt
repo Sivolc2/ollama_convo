@@ -1,0 +1,4 @@
+ollama-python>=0.1.6
+ollama
+python-dotenv>=1.0.0
+PyYAML>=6.0.1
